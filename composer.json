@@ -2,6 +2,7 @@
     "name": "iz5clj/timezones",
     "description": "Demo on how to create a package for laravel.",
     "type": "LaravelPackage",
+    "licence": "MIT",
     "authors": [
         {
             "name": "Michel",
