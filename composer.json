@@ -1,8 +1,8 @@
 {
     "name": "iz5clj/timezones",
     "description": "Demo on how to create a package for laravel.",
-    "type": "LaravelPackage",
-    "licence": "MIT",
+    "type": "Library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Michel",
