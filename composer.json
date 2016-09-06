@@ -1,0 +1,12 @@
+{
+    "name": "iz5clj/timezones",
+    "description": "Demo on how to create a package for laravel.",
+    "type": "Laravel package",
+    "authors": [
+        {
+            "name": "Michel",
+            "email": "ms@auxe.net"
+        }
+    ],
+    "require": {}
+}
