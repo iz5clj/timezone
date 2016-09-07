@@ -9,6 +9,11 @@
             "email": "ms@auxe.net"
         }
     ],
+    "autoload": {
+        "psr-4": {
+             "Iz5clj\\Timezones\\": "src"
+        }
+    },
     "require": {
         "php": ">=5.4.0"
     }
